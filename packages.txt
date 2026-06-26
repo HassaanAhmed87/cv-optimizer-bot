@@ -1,0 +1,8 @@
+# System dependencies for Streamlit Cloud
+# These are installed automatically on Streamlit Cloud
+
+# For PDF processing
+# (PyPDF2 is pure Python, no system deps needed)
+
+# For DOCX processing
+# (python-docx is pure Python, no system deps needed)
